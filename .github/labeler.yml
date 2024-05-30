@@ -8,4 +8,4 @@ main:
 23.01:
  - base-branch: '23.01'
 22.02:
- - base-branch: '22.02'
+ - base-branch: '22.02 update'
